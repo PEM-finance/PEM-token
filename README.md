@@ -1,1 +1,1 @@
-# PEM-token
+#  PEM an acronymn for People Earn Money is a promising and rising DEFI protocol on the Binance Smart Chain with the aim of maximizing investment for holders and traders. The PEM token is capable of gasless yield aquisition i.e holders can generate more yield by simply keeping the token in their respective wallets. We are building a strong army to the moon
